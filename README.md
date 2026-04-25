@@ -48,11 +48,7 @@ Cognitive impairment conditions such as Mild Cognitive Impairment (MCI) and earl
 
 ##  Authors
 
-- **Kavya Mehndiratta** — Manipal University Jaipur · [GitHub](https://github.com/yourusername) · [LinkedIn](https://linkedin.com/in/yourprofile)
+- **Kavya Mehndiratta** — Manipal University Jaipur 
 - *(Dr. Ajay Kumar - Manipal University Jaipur)*
 
 ---
-
-## Contact
-
-For questions or collaborations, reach out at: kavyamehndiratta05@gmail.com
